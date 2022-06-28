@@ -2,15 +2,15 @@
 
 Aplicativo que calcula o Índice de Massa Corporal (IMC).
 
-// Skills para o desenvolvimento do app:
-Conceitos em MVC design patter; Optionals; Classes; e manipulação de dados entre as segues.
+## Skills para o desenvolvimento do app:
+Conceitos em MVC design pattern; Optionals; Classes; e manipulação de dados entre as segues.
 
-## View 1
+# View 1
 Escolha da massa do usuário e da sua altura, por meio dos botões sliders.
 
 <img width="753" alt="Screen Shot 2022-06-28 at 15 49 41" src="https://user-images.githubusercontent.com/102806228/176321458-3d1bc060-aa86-4b3b-945e-e3be9475f477.png">
 
-## View 2
+# View 2
 A segunda view é animada, dependendo do valor final do IMC:
 
 bmiValue < 18.5: "Eat more pies!"
